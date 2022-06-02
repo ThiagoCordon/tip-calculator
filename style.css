@@ -9,7 +9,7 @@ html {
 
 main {
   max-width: 50rem;
-  margin: 2rem auto;
+  margin: 4rem auto;
   background: linear-gradient(30deg, #3dc0c0, #5bceae);
   padding: 3rem 1.6rem 6rem 1.6rem;
   border-radius: 4rem;
@@ -99,4 +99,9 @@ input[type="number"] {
 
 .range::-moz-focus-outer {
   border: 0;
+}
+
+footer {
+  text-align: center;
+  font-size: 12px;
 }
